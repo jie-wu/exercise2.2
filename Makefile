@@ -1,4 +1,4 @@
-CC=gcc -std=c99
+CC=gcc -std=c99 -ggdb
 LD=gcc 
 
 all: pointerAssign xsquare literal flowers fibonacci pointerAssign memleak
